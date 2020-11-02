@@ -1,4 +1,4 @@
-PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'PROJECT_NO' cannot be null in /home/tress-test/www/murayama/project_attr.php:322
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'PROJECT_NO' cannot be null in /home/●●●/www/●●●●●/project_attr.php:322
 Stack trace:
 #0 /home/tress-test/www/murayama/project_attr.php(322): PDOStatement->execute()
 #1 /home/tress-test/www/murayama/32_mou_signup.php(46): insertProjectAttr(Object(PDO), Object(project_attr))
